@@ -1,4 +1,4 @@
-# SnowSakura-Neuro: Physical Layer Implementation Specs for 15EG High-Density BCI
+# SnowSakura-Neuro: Ultra-Low Latency Physical Standard for Real-Time Biological Computing
 This is SnowSakura-Neuro (SnowSakura 2)
 ## Introduction
 
